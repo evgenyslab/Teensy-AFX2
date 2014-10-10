@@ -1,4 +1,4 @@
-Teensy-AFX2
+#Teensy-AFX2
 ===========
 
 This is a basic connection program for MIDI communcation between a Teensy 3.0 with a MIDI I/O on TX/RX pins using MIDI 2.6 library.
