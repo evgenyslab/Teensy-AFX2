@@ -2,7 +2,7 @@
 
 Example code for the Teensy 3.0 + Adafruit RGB Character LCD Shield and Library for Midi communication
 with the Axe FX II.
-
+evgeny is the bestest.
 
 **********************/
 
